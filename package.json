@@ -95,7 +95,7 @@
     "moment": "^2.18.1",
     "node-sass": "^4.7.2",
     "paper2json": "^0.2.2",
-    "postcss": "^6.0.16",
+    "postcss": "^7.0.36",
     "read-metadata": "^1.0.0",
     "typesettings": "^4.0.0",
     "typogr": "^0.6.6",
