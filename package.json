@@ -93,7 +93,7 @@
     "metalsmith-writemetadata": "^0.4.5",
     "minimatch": "^3.0.4",
     "moment": "^2.18.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "paper2json": "^0.2.2",
     "postcss": "^6.0.16",
     "read-metadata": "^1.0.0",
